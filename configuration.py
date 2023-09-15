@@ -1,10 +1,10 @@
 #CONFIGURAÇÕES_DE_CONEXÃO_TELEGRAM
-api_id = "27967836"
-api_hash = "7530d502e3b5d087e85f591255e97e3c"
+api_id = ""
+api_hash = ""
 sessao = "Enviar Mensagem" #NÃO MEXER
 
 #CONFIGURAÇÕES AFILIADO
-link_afiliado = "https://lendasbet.com/esportes/esportes-ao-vivo/todos-esportes/0/todos/0"
+link_afiliado = ""
 
 #ID_DOS_GRUPOS_ORIGEM (NÃO MEXER)
 MINES_ID_ORIGEM = -1001939194214
